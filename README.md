@@ -1,16 +1,15 @@
-## Hi there 👋
+💻 Didon Code
+Je suis un développeur passionné par la technologie et l'innovation. J'aime résoudre des problèmes complexes et apprendre de nouvelles compétences. Mon objectif est de créer des solutions qui ont un impact positif sur le monde.
 
-<!--
-**Abstru3/Abstru3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Actuellement, je suis en étude d'informatique.
+👯 Je suis ouvert à collaborer sur des projets intéressants et à partager mes connaissances.
+🔧 Technologies et Outils
+JavaScript Python HTML5 CSS3 Git
 
-Here are some ideas to get you started:
+📊 Statistiques GitHub
+Statistiques GitHub Langages les plus utilisés
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connecte-toi avec moi
+Mon Site
+
+Merci de visiter mon profil ! 😊
