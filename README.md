@@ -7,7 +7,7 @@ Je suis un développeur passionné par la technologie et l'innovation. J'aime r�
 JavaScript Python HTML5 CSS3 Git
 
 📊 Statistiques GitHub
-https://github.com/Abstru3/Abstru3/edit/main/README.md
+![TonNom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neptune2k21&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neptune2k21&layout=compact&langs_count=6&theme=radical)
 
 🌐 Connecte-toi avec moi
 Mon Site
