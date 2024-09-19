@@ -7,7 +7,7 @@ Je suis un développeur passionné par la technologie et l'innovation. J'aime r�
 JavaScript Python HTML5 CSS3 Git
 
 📊 Statistiques GitHub
-Statistiques GitHub Langages les plus utilisés
+https://github.com/Abstru3/Abstru3/edit/main/README.md
 
 🌐 Connecte-toi avec moi
 Mon Site
