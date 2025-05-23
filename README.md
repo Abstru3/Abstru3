@@ -13,7 +13,5 @@ JavaScript Python HTML5 CSS3 Git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abstru3&layout=compact&langs_count=6&theme=radical)
 
-🌐 Connecte-toi avec moi
-Mon Site
 
-Merci de visiter mon profil ! 😊
+Merci d'avoir visiter mon profil !
